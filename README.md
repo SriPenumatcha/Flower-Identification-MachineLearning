@@ -20,7 +20,7 @@
 
 * `test_1.jpg` image to test the model's predictions
 
-* `Flower_detection.pptx` is the powerpoint for our teams presentation
+* `Flower_Identification.pptx` is the powerpoint for our teams presentation
 
 * `flowers` folder containing the original dataset from Kaggle.com
 
