@@ -18,6 +18,8 @@
 
 * `Model_comparison_and_results.png` is the image as shown in the results section of this ReadMe
 
+* `test_1.jpg` image to test the model's predictions
+
 * `Flower_detection.pptx` is the powerpoint for our teams presentation
 
 * `flowers` folder containing the original dataset from Kaggle.com
